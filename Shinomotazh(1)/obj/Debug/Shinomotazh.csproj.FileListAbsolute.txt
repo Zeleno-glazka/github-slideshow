@@ -1,0 +1,38 @@
+C:\Users\alego\source\repos\Shinomotazh\bin\Debug\Shinomotazh.exe.config
+C:\Users\alego\source\repos\Shinomotazh\bin\Debug\Shinomotazh.exe
+C:\Users\alego\source\repos\Shinomotazh\bin\Debug\Shinomotazh.pdb
+C:\Users\alego\source\repos\Shinomotazh\obj\Debug\Shinomotazh.csprojAssemblyReference.cache
+C:\Users\alego\source\repos\Shinomotazh\obj\Debug\Shinomotazh.MainFrm.resources
+C:\Users\alego\source\repos\Shinomotazh\obj\Debug\Shinomotazh.Properties.Resources.resources
+C:\Users\alego\source\repos\Shinomotazh\obj\Debug\Shinomotazh.csproj.GenerateResource.cache
+C:\Users\alego\source\repos\Shinomotazh\obj\Debug\Shinomotazh.csproj.CoreCompileInputs.cache
+C:\Users\alego\source\repos\Shinomotazh\obj\Debug\Shinomotazh.exe
+C:\Users\alego\source\repos\Shinomotazh\obj\Debug\Shinomotazh.pdb
+D:\Документы\Учёба_ТГУ\3курс\Имитационка\Shinomotazh\bin\Debug\Shinomotazh.exe.config
+D:\Документы\Учёба_ТГУ\3курс\Имитационка\Shinomotazh\bin\Debug\Shinomotazh.exe
+D:\Документы\Учёба_ТГУ\3курс\Имитационка\Shinomotazh\bin\Debug\Shinomotazh.pdb
+D:\Документы\Учёба_ТГУ\3курс\Имитационка\Shinomotazh\obj\Debug\Shinomotazh.csprojAssemblyReference.cache
+D:\Документы\Учёба_ТГУ\3курс\Имитационка\Shinomotazh\obj\Debug\Shinomotazh.MainFrm.resources
+D:\Документы\Учёба_ТГУ\3курс\Имитационка\Shinomotazh\obj\Debug\Shinomotazh.Properties.Resources.resources
+D:\Документы\Учёба_ТГУ\3курс\Имитационка\Shinomotazh\obj\Debug\Shinomotazh.csproj.GenerateResource.cache
+D:\Документы\Учёба_ТГУ\3курс\Имитационка\Shinomotazh\obj\Debug\Shinomotazh.exe
+D:\Документы\Учёба_ТГУ\3курс\Имитационка\Shinomotazh\obj\Debug\Shinomotazh.pdb
+C:\Users\bolga\OneDrive\Рабочий стол\github-zelenoglazka-master\github-zelenoglazka-master\Shinomotazh\bin\Debug\Shinomotazh.exe.config
+C:\Users\bolga\OneDrive\Рабочий стол\github-zelenoglazka-master\github-zelenoglazka-master\Shinomotazh\bin\Debug\Shinomotazh.exe
+C:\Users\bolga\OneDrive\Рабочий стол\github-zelenoglazka-master\github-zelenoglazka-master\Shinomotazh\bin\Debug\Shinomotazh.pdb
+C:\Users\bolga\OneDrive\Рабочий стол\github-zelenoglazka-master\github-zelenoglazka-master\Shinomotazh\obj\Debug\Shinomotazh.csprojAssemblyReference.cache
+C:\Users\bolga\OneDrive\Рабочий стол\github-zelenoglazka-master\github-zelenoglazka-master\Shinomotazh\obj\Debug\Shinomotazh.MainFrm.resources
+C:\Users\bolga\OneDrive\Рабочий стол\github-zelenoglazka-master\github-zelenoglazka-master\Shinomotazh\obj\Debug\Shinomotazh.Properties.Resources.resources
+C:\Users\bolga\OneDrive\Рабочий стол\github-zelenoglazka-master\github-zelenoglazka-master\Shinomotazh\obj\Debug\Shinomotazh.csproj.GenerateResource.cache
+C:\Users\bolga\OneDrive\Рабочий стол\github-zelenoglazka-master\github-zelenoglazka-master\Shinomotazh\obj\Debug\Shinomotazh.csproj.CoreCompileInputs.cache
+C:\Users\bolga\OneDrive\Рабочий стол\github-zelenoglazka-master\github-zelenoglazka-master\Shinomotazh\obj\Debug\Shinomotazh.exe
+C:\Users\bolga\OneDrive\Рабочий стол\github-zelenoglazka-master\github-zelenoglazka-master\Shinomotazh\obj\Debug\Shinomotazh.pdb
+D:\Рабочий стол\Shinomotazh\bin\Debug\Shinomotazh.exe.config
+D:\Рабочий стол\Shinomotazh\bin\Debug\Shinomotazh.exe
+D:\Рабочий стол\Shinomotazh\bin\Debug\Shinomotazh.pdb
+D:\Рабочий стол\Shinomotazh\obj\Debug\Shinomotazh.csprojAssemblyReference.cache
+D:\Рабочий стол\Shinomotazh\obj\Debug\Shinomotazh.MainFrm.resources
+D:\Рабочий стол\Shinomotazh\obj\Debug\Shinomotazh.Properties.Resources.resources
+D:\Рабочий стол\Shinomotazh\obj\Debug\Shinomotazh.csproj.GenerateResource.cache
+D:\Рабочий стол\Shinomotazh\obj\Debug\Shinomotazh.exe
+D:\Рабочий стол\Shinomotazh\obj\Debug\Shinomotazh.pdb
