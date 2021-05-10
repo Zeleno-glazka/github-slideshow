@@ -1,0 +1,10 @@
+C:\MyFiles\Study\Simulation Models\Lab9\bin\Debug\Lab9.exe.config
+C:\MyFiles\Study\Simulation Models\Lab9\bin\Debug\Lab9.exe
+C:\MyFiles\Study\Simulation Models\Lab9\bin\Debug\Lab9.pdb
+C:\MyFiles\Study\Simulation Models\Lab9\obj\Debug\Lab9.csprojAssemblyReference.cache
+C:\MyFiles\Study\Simulation Models\Lab9\obj\Debug\Lab9.Form1.resources
+C:\MyFiles\Study\Simulation Models\Lab9\obj\Debug\Lab9.Properties.Resources.resources
+C:\MyFiles\Study\Simulation Models\Lab9\obj\Debug\Lab9.csproj.GenerateResource.cache
+C:\MyFiles\Study\Simulation Models\Lab9\obj\Debug\Lab9.csproj.CoreCompileInputs.cache
+C:\MyFiles\Study\Simulation Models\Lab9\obj\Debug\Lab9.exe
+C:\MyFiles\Study\Simulation Models\Lab9\obj\Debug\Lab9.pdb
